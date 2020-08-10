@@ -1,5 +1,0 @@
-server:
-  port: 8700
-
-  info:
-  environment: production
